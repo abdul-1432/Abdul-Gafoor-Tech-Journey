@@ -1,4 +1,4 @@
-**GitHub Readme: Abdul Gafoor's Tech Journey**
+# Abdul Gafoor's Tech Journey
 
 ---
 
