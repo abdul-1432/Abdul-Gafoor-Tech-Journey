@@ -120,7 +120,3 @@ Hi there! I'm Mohammad Abdul Gafoor, a recent graduate with a passion for full-s
 ### 📉 Deceleration
 
 I, MD Abdul Gafoor, confirm that all the information presented in this resume is accurate and verifiable, and I am prepared to provide supporting evidence when required.
-
----
-
-Feel free to ask me any interview questions or dive deeper into any specific aspect!
